@@ -3,7 +3,7 @@
 A Flutter-based shopping list application that allows users to add, view, and manage their grocery items with Firebase integration for real-time data storage and synchronization.
 
 ## My Screens:
-  <img src="assets/1.png" alt="Drawer Menu" width="800"/>
+  <img src="assets/1.jpg" alt="Drawer Menu" width="800"/>
 
 ## Features
 
